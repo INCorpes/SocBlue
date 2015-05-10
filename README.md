@@ -1,0 +1,2 @@
+# SocBlue
+Работа с bluetooth
